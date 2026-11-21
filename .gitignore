@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.wav
+*.joblib
+manifest_train.csv
+app.pybackup.py
